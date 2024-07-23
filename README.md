@@ -1,4 +1,4 @@
-# Nothing just a human.
+![fyydsz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fyydsz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **fyydsz/fyydsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
