@@ -1,6 +1,5 @@
 # I'm just a human.
 ![fyydsz's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=fyydsz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyydsz)](https://github.com/fyydsz)
 ![fyydsz's visitor](https://komarev.com/ghpvc/?username=fyydsz)
 
 
